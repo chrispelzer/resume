@@ -2,7 +2,7 @@
 title: Chris Pelzer's Resume
 description: Chris Pelzer's Resume
 favicon: "http://www.gravatar.com/avatar/bac5d28e45c4a31ae2913f46ac7a3602"
-baseurl:
+baseurl: /resume
 url: http://chrispelzer.com/resume
 rss_url: /pages/atom.xml
 
