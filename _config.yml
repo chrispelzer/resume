@@ -1,0 +1,63 @@
+# Site settings
+title: Chris Pelzer's Resume
+description: Chris Pelzer's Resume
+favicon: "http://www.gravatar.com/avatar/bac5d28e45c4a31ae2913f46ac7a3602"
+baseurl:
+url: http://chrispelzer.com/resume
+rss_url: /pages/atom.xml
+
+# Build settings
+markdown: kramdown
+
+# Author settings
+author:
+  name: Chris Pelzer
+  title: Full Stack PHP Developer
+  address: Detroit, Michigan
+  email: me@chrispelzer.com
+  link: http://chrispelzer.com
+  weibo:
+  github: chrispelzer
+  linkedin: chrispelzer
+  twitter: chrispelzer
+  gavatar: "http://www.gravatar.com/avatar/bac5d28e45c4a31ae2913f46ac7a3602"
+  workHistory:
+    - work1:
+      company: Wayne State University
+      location: Detroit, Michigan
+      title: Senior Web Developer
+      started: 2014
+      duration: (September 2014 - Present)
+      description:
+    - work2:
+      company: Wayne State University
+      location: Detroit, Michigan
+      title: System Integrator II
+      started: 2005
+      duration: (May 2005 - August 2014)
+      description:
+  educationHistory:
+    - education1:
+      organization: Central Michigan University
+      degree: Bachelor
+      major: Computer Science
+      started: 2001
+      duration: (2001 - 2006)
+      description:
+  languages:
+  programmingSkills:
+    - skill1:
+      name: PHP
+      percentage: 95%
+    - skill2:
+      name: HTML
+      percentage: 100%
+    - skill3:
+      name: JavaScript
+      percentage: 95%
+    - skill4:
+      name: CSS
+      percentage: 100%
+    - skill5:
+      name: SQL
+      percentage: 95%
